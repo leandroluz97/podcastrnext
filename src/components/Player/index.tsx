@@ -5,7 +5,7 @@ const Player = () => {
     <div className={styles.playerContainer}>
       <header>
         <img src='/playing.svg' alt='Tocando agora' />
-        <strong>Tocando agroa</strong>
+        <strong>Tocando agora</strong>
       </header>
 
       <div className={styles.emptyPlayer}>
